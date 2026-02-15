@@ -8,13 +8,13 @@ In this tutorial, you’ll create a database, then write code to access the data
 
 In this tutorial, you’ll progress through the following sections:
 
-Create a folder for your code.
-Set up a database.
-Import the database driver.
-Get a database handle and connect.
-Query for multiple rows.
-Query for a single row.
-Add data.
+- Create a folder for your code.
+- Set up a database.
+- Import the database driver.
+- Get a database handle and connect.
+- Query for multiple rows.
+- Query for a single row.
+- Add data.
 
 ### Set up a database
 In this step, you’ll create the database you’ll be working with. You’ll use the CLI for the DBMS itself to create the database and table, as well as to add data.
